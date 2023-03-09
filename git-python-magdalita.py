@@ -1,3 +1,6 @@
 print("Ahmad Magdalita")
 print("Malibago Torrijos Magdalita")
 print("May 20, 2003")
+print("Bacheloro of Science in Information Technology")
+print("Second Year College")
+print(" Section A")
